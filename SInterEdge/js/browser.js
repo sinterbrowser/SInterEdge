@@ -221,7 +221,7 @@
         this.trigger("init");
 
         // Navigate to the start page
-        this.navigateTo("https://github.com/SuriyaaKudoIsc/SInterEdge");
+        this.navigateTo("https://sinterbrowser.github.io/SInterEdge/");
     }.bind(browser));
 
     // Export `browser`
